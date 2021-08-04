@@ -14,7 +14,7 @@ train_cfg = dict(
 )
 
 # test_cfg = dict(
-#     _delete_ = True
+#     _delete_ = True，
 #     pkl_data = 'path to pkl data'
 # )
 
